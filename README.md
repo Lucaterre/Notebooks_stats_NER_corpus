@@ -7,6 +7,7 @@ Notebooks for basic statistics during a NER campaign.
 - Inter-annotators agreement evaluation ;
 - Global stats on NER *golden corpus* 
 
+
 You can launch these notebooks directly with binder : 
 
 *The provided test data in `./datatest` folder with the names of the annotators has been anonymized*
