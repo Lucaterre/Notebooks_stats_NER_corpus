@@ -4,7 +4,7 @@
 
 notebooks (reproducible) allowing to carry out basic statistics during a NER campaign.
 
-- Inter-agreement evaluation
+- Inter-annotators agreement evaluation ;
 - Global stats on NER *golden corpus* 
 
 You can launch these notebooks directly with binder : 
