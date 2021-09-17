@@ -8,6 +8,6 @@ Notebooks for basic statistics during a NER campaign.
 - Global stats on NER *golden corpus* 
 
 
-You can launch these notebooks directly with binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lucaterre/Notebooks_stats_NER_corpus/main/HEAD)
+You can launch these notebooks directly with binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lucaterre/Notebooks_stats_NER_corpus/main/)
 
 *The provided test data in `./datatest` folder with the names of the annotators has been anonymized*
