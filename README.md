@@ -1,2 +1,12 @@
-# Notebooks_stats_NER_corpus
-Notebook collection to make statitics on NER corpus for campaign (reusable)
+# NER campaign statistics notebooks 
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+notebooks (reproducible) allowing to carry out basic statistics during a NER campaign.
+
+- Inter-agreement evaluation
+- Global stats on NER *golden corpus* 
+
+You can launch these notebooks directly with binder : 
+
+*The provided test data in `./datatest` folder with the names of the annotators has been anonymized*

@@ -1,0 +1,83 @@
+,coder_3,coder_1,coder_4,coder_2
+comté de Biscoye,ORGANISATION,TITLE,ORGANISATION,ORGANISATION
+royaume de Castille,LOCATION,ORGANISATION,ORGANISATION,ORGANISATION
+compagnon teinturier,TITLE,None,TITLE,TITLE
+"Paris, rue des Billettes",LOCATION,None,None,None
+compagnon de guerre,TITLE,None,None,TITLE
+seigneur,TITLE,None,TITLE,None
+Fontaines,LOCATION,None,LOCATION,None
+conseiller,TITLE,None,TITLE,None
+arrondissement de Dijon,LOCATION,None,LOCATION,ORGANISATION
+Autun,LOCATION,LOCATION,LOCATION,None
+serf,TITLE,None,TITLE,None
+canton de Semur,LOCATION,ORGANISATION,LOCATION,ORGANISATION
+"VALLADON, Mme Vve Jeanne",PERSON,None,None,PERSON
+"Marmousets-en-la-Cité, rue des rue Chanoinesse",LOCATION,None,None,None
+chapitre de Notre-Dame de Paris,ORGANISATION,ORGANISATION,ORGANISATION,TITLE
+"Mathurins, couvent des",ORGANISATION,INSTALLATION,ORGANISATION,INSTALLATION
+couvent des Mathurins,ORGANISATION,INSTALLATION,ORGANISATION,INSTALLATION
+Maison d'arrêt de Mont-de-Marsan,ORGANISATION,INSTALLATION,INSTALLATION,INSTALLATION
+Bordeaux,LOCATION,LOCATION,None,LOCATION
+censeur,TITLE,TITLE,TITLE,None
+lycée Louis-le-Grand,ORGANISATION,INSTALLATION,ORGANISATION,ORGANISATION
+"Lyon (Rhône), 53, passage de l'Hôtel-Dieu",LOCATION,None,None,None
+commune de Ronquerolles,LOCATION,None,None,None
+arrondissement de Pontoise,LOCATION,None,LOCATION,LOCATION
+Parc De Chambon,INSTALLATION,INSTALLATION,INSTALLATION,None
+Châteaux De Chambon,INSTALLATION,INSTALLATION,None,None
+Rilly,LOCATION,LOCATION,LOCATION,None
+Château Dudit Chambon,INSTALLATION,None,None,INSTALLATION
+Bois De Clerembault,LOCATION,None,None,None
+Étangs De Rilly,LOCATION,None,None,None
+ordebrasse,LOCATION,None,None,None
+Oakland Harbor Light-Station,INSTALLATION,LOCATION,INSTALLATION,INSTALLATION
+Phare du port d'Oakland,INSTALLATION,None,INSTALLATION,None
+ingénieur en chef,TITLE,None,TITLE,TITLE
+exposition de 1855,EVENT,None,None,None
+royaume de Naples,LOCATION,ORGANISATION,ORGANISATION,ORGANISATION
+4e régiment de cuirassiers à pied,ORGANISATION,None,ORGANISATION,None
+soldat,TITLE,TITLE,None,None
+Discours du général Robillot,EVENT,None,None,None
+Réception des sportifs et des fédérations sportives,EVENT,None,None,None
+Discours du Président de la République,EVENT,None,None,None
+Réunion discussion à l'occasion de la visite d'une menuiserie,EVENT,None,None,None
+Gabard Madeleine,PERSON,PERSON,PERSON,None
+Simonin,PERSON,PERSON,PERSON,None
+teinturier,None,TITLE,None,None
+rue des Billettes,None,LOCATION,LOCATION,LOCATION
+seigneur de Fontaines,None,TITLE,None,TITLE
+seigneur de Courcelles-lès-Semur,None,TITLE,None,TITLE
+VALLADON,None,PERSON,PERSON,None
+Marmousets-en-la-Cité,None,LOCATION,LOCATION,LOCATION
+rue Chanoinesse,None,LOCATION,LOCATION,None
+Lyon,None,LOCATION,LOCATION,LOCATION
+Rhône,None,LOCATION,LOCATION,LOCATION
+"53, passage de l'Hôtel-Dieu",None,LOCATION,LOCATION,LOCATION
+Ronquerolles,None,LOCATION,LOCATION,LOCATION
+Pontoise,None,LOCATION,None,None
+Chambon,None,LOCATION,LOCATION,None
+Les Bois De Clerembault,None,LOCATION,None,LOCATION
+port d'Oakland,None,INSTALLATION,None,INSTALLATION
+prince,None,TITLE,None,TITLE
+membre du commissariat général,None,TITLE,None,None
+cuirassiers à pied,None,TITLE,None,None
+« Le petit Parisien »,None,ORGANISATION,None,None
+Discours du général Robillot Juillet 1917,None,EVENT,None,None
+Président de la République,None,TITLE,TITLE,TITLE
+Gerhard Schroeder,None,PERSON,PERSON,PERSON
+locataire,None,None,TITLE,None
+région de Bordeaux,None,None,ORGANISATION,None
+propriétaire,None,None,TITLE,None
+Le petit Parisien,None,None,ORGANISATION,None
+Robillot Juillet,None,None,PERSON,None
+Conférence de presse du Président de la République,None,None,EVENT,None
+consultations Franco-Allemandes,None,None,EVENT,None
+rue des rue Chanoinesse,None,None,None,LOCATION
+préfecture,None,None,None,ORGANISATION
+Château Et Parc De Chambon,None,None,None,INSTALLATION
+Châteaux De Chambon Et Rilly,None,None,None,INSTALLATION
+"Les Bois, Terres, Prés Et Étangs De Rilly",None,None,None,LOCATION
+commissariat général,None,None,None,ORGANISATION
+4e régiment de cuirassiers,None,None,None,ORGANISATION
+Robillot,None,None,None,PERSON
+"Gabard Madeleine, née Simonin",None,None,None,PERSON
