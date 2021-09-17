@@ -13,4 +13,3 @@ dependencies:
     - notebook
     - dkpro-cassis==0.5.3
     - statistics==1.0.3.5
-prefix: /home/lterriel/anaconda3/envs/ner_stats
